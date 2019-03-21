@@ -1,0 +1,14 @@
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Debug\netcoreapp2.1\SearchLogs.deps.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Debug\netcoreapp2.1\SearchLogs.runtimeconfig.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Debug\netcoreapp2.1\SearchLogs.runtimeconfig.dev.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Debug\netcoreapp2.1\SearchLogs.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Debug\netcoreapp2.1\SearchLogs.pdb
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.csprojAssemblyReference.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.csproj.CoreCompileInputs.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.RazorAssemblyInfo.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.RazorAssemblyInfo.cs
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.AssemblyInfoInputs.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.AssemblyInfo.cs
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.RazorTargetAssemblyInfo.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Debug\netcoreapp2.1\SearchLogs.pdb

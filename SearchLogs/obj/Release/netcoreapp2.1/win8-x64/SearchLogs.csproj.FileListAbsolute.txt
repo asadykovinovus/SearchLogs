@@ -1,0 +1,17 @@
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\hostpolicy.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\hostfxr.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.exe
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.deps.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.runtimeconfig.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.runtimeconfig.dev.json
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\bin\Release\netcoreapp2.1\win8-x64\SearchLogs.pdb
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.csprojAssemblyReference.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.csproj.CoreCompileInputs.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.RazorAssemblyInfo.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.RazorAssemblyInfo.cs
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.AssemblyInfoInputs.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.AssemblyInfo.cs
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.RazorTargetAssemblyInfo.cache
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.dll
+C:\Users\asadykov\source\repos\SearchLogs\SearchLogs\obj\Release\netcoreapp2.1\win8-x64\SearchLogs.pdb
